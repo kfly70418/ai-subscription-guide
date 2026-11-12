@@ -1,20 +1,20 @@
 {
   "schema_version": 1,
-  "collected_at": "2026-11-11T08:56:19+08:00",
-  "collected_date": "2026-11-11",
+  "collected_at": "2026-11-12T09:01:20+08:00",
+  "collected_date": "2026-11-12",
   "source_name": "权益比价（daichongbijia.com）",
   "sources": [
     {
       "url": "https://daichongbijia.com/chatgpt/",
-      "source_date": "2026-11-10",
-      "sha256": "5eede497d89fa443e1f6e0d110798e7c1719840388b8c80b063c9198f1d22781",
+      "source_date": "2026-11-11",
+      "sha256": "d4245d41326102e9b1739a825bc7dc93285fb7ac9558af9371442547aa37f3b2",
       "count": 7
     },
     {
       "url": "https://daichongbijia.com/claude/",
-      "source_date": "2026-11-10",
-      "sha256": "4abae59962c176e66ba81b9fe1a5da171bc4401d072e28e6bd74f1dfb10c6303",
-      "count": 13
+      "source_date": "2026-11-11",
+      "sha256": "362965dd9dbb131acae7d00466652a3a7e52569e6e3ff4a2c4065381bc45ad4f",
+      "count": 11
     }
   ],
   "offers": [
@@ -44,7 +44,7 @@
       "period": "周期未注明",
       "delivery": "充自己账号",
       "note": "补贴价 11-11 截止；请只提供公开 ID，不要提供 Token/Session/Cookie；原账号升级；请只提供公开账号信息 / 按订单页，不要提供 Token/Session/Cookie",
-      "quote_date": "2026-11-10",
+      "quote_date": "2026-11-11",
       "historical": false,
       "source_url": "https://daichongbijia.com/chatgpt/"
     },
@@ -59,7 +59,7 @@
       "period": "周期未注明",
       "delivery": "充自己账号",
       "note": "请只提供公开 ID，不要提供 Token/Session/Cookie；含 30 天质保；请只提供公开账号信息，不要提供 Token/Session/Cookie",
-      "quote_date": "2026-11-10",
+      "quote_date": "2026-11-11",
       "historical": false,
       "source_url": "https://daichongbijia.com/chatgpt/"
     },
@@ -124,21 +124,6 @@
       "source_url": "https://daichongbijia.com/chatgpt/"
     },
     {
-      "id": "141443a0f05b130b",
-      "product": "Claude",
-      "merchant": "Aisou智充",
-      "plan": "Claude Pro 月卡 iOS",
-      "tier": "Pro",
-      "price": 133.0,
-      "currency": "CNY",
-      "period": "月付 / 30天",
-      "delivery": "充自己账号",
-      "note": "仅 USDT；iOS 渠道卡密，只需 Claude 用户 ID 自助充值；已有未到期付费订阅的账号不能充；封号不质保",
-      "quote_date": "2026-11-10",
-      "historical": false,
-      "source_url": "https://daichongbijia.com/claude/"
-    },
-    {
       "id": "3b82f95bfa9d75a4",
       "product": "Claude",
       "merchant": "CZGPT",
@@ -164,7 +149,7 @@
       "period": "月付 / 30天",
       "delivery": "充自己账号",
       "note": "",
-      "quote_date": "2026-11-10",
+      "quote_date": "2026-11-11",
       "historical": false,
       "source_url": "https://daichongbijia.com/claude/"
     },
@@ -194,7 +179,7 @@
       "period": "周期未注明",
       "delivery": "未知",
       "note": "起价；claudecodex 记为 Pro 30天代充",
-      "quote_date": "2026-11-10",
+      "quote_date": "2026-11-11",
       "historical": false,
       "source_url": "https://daichongbijia.com/claude/"
     },
@@ -209,7 +194,7 @@
       "period": "月付 / 30天",
       "delivery": "充自己账号",
       "note": "",
-      "quote_date": "2026-11-10",
+      "quote_date": "2026-11-11",
       "historical": false,
       "source_url": "https://daichongbijia.com/claude/"
     },
@@ -224,22 +209,7 @@
       "period": "周期未注明",
       "delivery": "充自己账号",
       "note": "请只提供公开 ID，不要提供 Token/Session/Cookie；iOS 渠道；可用 Claude UID 自助充值，无需账号密码（店铺推荐的 SK 方式需提交 sessionKey，不建议）",
-      "quote_date": "2026-11-10",
-      "historical": false,
-      "source_url": "https://daichongbijia.com/claude/"
-    },
-    {
-      "id": "30bd35bc77687024",
-      "product": "Claude",
-      "merchant": "贝贝商店",
-      "plan": "Claude Max 5x",
-      "tier": "Max-5x",
-      "price": 890.0,
-      "currency": "CNY",
-      "period": "周期未注明",
-      "delivery": "充自己账号",
-      "note": "",
-      "quote_date": "2026-11-10",
+      "quote_date": "2026-11-11",
       "historical": false,
       "source_url": "https://daichongbijia.com/claude/"
     },
@@ -254,7 +224,7 @@
       "period": "周期未注明",
       "delivery": "充自己账号",
       "note": "官方礼品卡卡密，发货后自行兑换到自己账号；店铺写明「无任何质保」",
-      "quote_date": "2026-11-10",
+      "quote_date": "2026-11-11",
       "historical": false,
       "source_url": "https://daichongbijia.com/claude/"
     },
@@ -269,7 +239,7 @@
       "period": "周期未注明",
       "delivery": "充自己账号",
       "note": "请只提供公开 ID，不要提供 Token/Session/Cookie；请只提供公开 ID / 邮箱，不要提供 Token/Session/Cookie（mik 2026-10-31）",
-      "quote_date": "2026-11-10",
+      "quote_date": "2026-11-11",
       "historical": false,
       "source_url": "https://daichongbijia.com/claude/"
     },
@@ -284,7 +254,7 @@
       "period": "周期未注明",
       "delivery": "充自己账号",
       "note": "质保版；请只提供公开 ID，不要提供 Token/Session/Cookie；质保版：含 30 天订阅质保（原价 ¥1080）；请只提供公开 ID / 邮箱，不要提供 Token/Session/Cookie",
-      "quote_date": "2026-11-10",
+      "quote_date": "2026-11-11",
       "historical": false,
       "source_url": "https://daichongbijia.com/claude/"
     },
@@ -299,7 +269,7 @@
       "period": "周期未注明",
       "delivery": "充自己账号",
       "note": "请只提供公开 ID，不要提供 Token/Session/Cookie；旧档位 Max 20x（官方现为 Ultra 10x），不计起价；iOS 渠道；可用 Claude UID 自助充值，无需账号密码（店铺推荐的 SK 方式需提交 sessionKey，不建议）",
-      "quote_date": "2026-11-10",
+      "quote_date": "2026-11-11",
       "historical": false,
       "source_url": "https://daichongbijia.com/claude/"
     },
